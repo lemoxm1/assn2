@@ -1,0 +1,27 @@
+[33mcommit f775c459c530e646bad88e796809c12927eb0d9e[m
+Author: Kyle Crockett-Smith <kkilla415@gmail.com>
+Date:   Wed Jan 28 19:20:51 2015 -0500
+
+    Revert "Modified README.md"
+    
+    This reverts commit 0ef03a9197858ce0841b8e83ad43f85a2e53c2f6.
+
+[33mcommit 0ef03a9197858ce0841b8e83ad43f85a2e53c2f6[m
+Author: Kyle Crockett-Smith <kkilla415@gmail.com>
+Date:   Wed Jan 28 19:17:18 2015 -0500
+
+    Modified README.md
+
+[33mcommit b55e3092fbe5657ced5597925b0a22f7441b30e1[m
+Author: lemoxm1 <lemoxm1@nku.edu>
+Date:   Wed Jan 28 17:19:54 2015 -0500
+
+    Hello.java
+    
+    File that we will be making commits against for the assignment
+
+[33mcommit fb18a2095f62dd7011361b5bd41985b97f711edb[m
+Author: lemoxm1 <lemoxm1@nku.edu>
+Date:   Wed Jan 28 17:16:55 2015 -0500
+
+    Initial commit
